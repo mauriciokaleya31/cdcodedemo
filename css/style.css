@@ -1,35 +1,17 @@
 /*
-Template Name: cdcode
-Theme URL:https://mauriciokaleya.cco.ao//cm-soon/
-Description: Landing Page
-Author: Mauricio Kaleya
-Author URL:https://mauriciokaleya.cco.ao/
-Version: 1.0
-Tags: Landing Page, HTML5, CSS3, Bootstrap, Jquery, Coming Soon Landing page
+Nome do Site: cdcode
+URL do Criador: https://mauriciokaleya.cco.ao//cm-soon/
+Descrição: página inicial
+Autor: Maurício Kaleya
+URL do autor: https://mauriciokaleya.cco.ao/
+Versão: 1.0
+Tags: página inicial, HTML5, CSS3, Bootstrap, Jquery, página inicial em breve
 */
 
-/* ___________________________________________
-
-                   CONTENT
-   ___________________________________________ */
-
-/*   01. General Styles                        */
-/*   02. Typography                            */
-/*   03. Backgrounds                           */
-/*   04. Buttons, Links                        */
-/*   05. Forms                                 */
-/*   06. Spacing, Alignment, Helperclasses     */
-/*   07. Navigation                            */
-/*   08. Backgrounds                           */
-/*   09. Preloader                             */
-/*   10. Modal                                 */
-/*   11. Count Down                            */
-/*   12. Gallery                               */
-/*   13. Misc                                  */
 
 /* _____________________________________
 
-   01. General Styles
+ 01. Estilos Gerais
    _____________________________________ */
 
 body {
@@ -71,8 +53,8 @@ body {
 }
 
 /* ----------------------------------
-   Bootstrap Fix: IE10
-   in Windows 8 & Windows Phone 8
+   Bootstrap 
+   Para Windows e Windows Phone 8
    ---------------------------------- */
 
 @-webkit-viewport {
@@ -97,7 +79,7 @@ body {
 
 /* _____________________________________
 
-   02. Typography
+   02. Tipografia
    _____________________________________ */
 
 h1, .h1 {
@@ -176,7 +158,7 @@ b {
 }
 
 /* ----------------------------------
-   Icons
+   Icones
    ---------------------------------- */
 
 .icon {
@@ -196,7 +178,7 @@ b {
 }
 
 /* ----------------------------------
-   Font Colors
+   Fontes de Colores
    ---------------------------------- */
 
 .text-color {
@@ -341,7 +323,7 @@ a.btn {
 }
 
 /* ----------------------------------
-   Button Dark
+   Botão Dark
    ---------------------------------- */
 
 .btn.btn-dark,
@@ -382,7 +364,7 @@ a.btn.btn-color:focus {
 }
 
 /* ----------------------------------
-   Button White
+   Button para o White
    ---------------------------------- */
 
 .btn-white,
@@ -402,7 +384,7 @@ a.btn.btn-white:focus {
 }
 
 /* ----------------------------------
-   Button Border White
+   Button Bordas do White
    ---------------------------------- */
 
 .btn.btn-border-white,
@@ -425,7 +407,7 @@ a.btn.btn-border-white:focus {
 
 /* _____________________________________
 
-   05. Forms
+   05. Formulario
    _____________________________________ */
 
 .form-control {
@@ -1059,7 +1041,7 @@ body.vegas-container > .vegas-slide {
 
 /* _____________________________________
 
-   11. Count Down
+   11. 
    _____________________________________ */
 
 .count-down h1 {
@@ -1084,7 +1066,7 @@ body.vegas-container > .vegas-slide {
 
 /* _____________________________________
 
-   12. Gallery
+   12. Galeria
    _____________________________________ */
 
 .row.no-gutters > [class^="col-"],
@@ -1160,7 +1142,7 @@ body.vegas-container > .vegas-slide {
 
 /* _____________________________________
 
-   13. Misc
+   13. Ultimo
    _____________________________________ */
 
 .page-info {
@@ -1182,3 +1164,4 @@ body.vegas-container > .vegas-slide {
 .map h4, .map h5 {
   margin-top: 0;
 }
+
